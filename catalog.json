@@ -15,7 +15,7 @@
     {
       "code": "cyrillic",
       "name": "Cyrillic",
-      "nativeName": "Русский, Українська, Български...",
+      "nativeName": "Русский, Беларусский, Български...",
       "description": "Кириллица (русский, украинский, болгарский)",
       "modelUrl": "https://github.com/emilioaugust/screenies-models/releases/download/v1.0/cyrillic_model.onnx",
       "keysUrl": "https://raw.githubusercontent.com/emilioaugust/screenies-models/refs/heads/main/keys/cyrillic_keys.txt",
