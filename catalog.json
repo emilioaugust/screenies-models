@@ -1,1 +1,27 @@
-
+{
+  "version": 1,
+  "languages": [
+    {
+      "code": "latin",
+      "name": "Latin",
+      "nativeName": "English, Deutsch, Français, Español...",
+      "description": "Латиница (европейские языки, вьетнамский)",
+      "modelUrl": "https://github.com/emilioaugust/screenies-models/releases/download/v1.0/latin_model.onnx",
+      "keysUrl": "https://raw.githubusercontent.com/emilioaugust/screenies-models/refs/heads/main/keys/latin_keys.txt",
+      "modelSizeBytes": 10000000,
+      "keysSizeBytes": 200000,
+      "sha256": ""
+    },
+    {
+      "code": "cyrillic",
+      "name": "Cyrillic",
+      "nativeName": "Русский, Українська, Български...",
+      "description": "Кириллица (русский, украинский, болгарский)",
+      "modelUrl": "https://github.com/emilioaugust/screenies-models/releases/download/v1.0/cyrillic_model.onnx",
+      "keysUrl": "https://raw.githubusercontent.com/emilioaugust/screenies-models/refs/heads/main/keys/cyrillic_keys.txt",
+      "modelSizeBytes": 10000000,
+      "keysSizeBytes": 20000,
+      "sha256": ""
+    }
+  ]
+}
